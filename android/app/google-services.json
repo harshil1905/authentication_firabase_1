@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "328084684523",
+    "firebase_url": "https://authentication-demo-8c29f-default-rtdb.firebaseio.com",
+    "project_id": "authentication-demo-8c29f",
+    "storage_bucket": "authentication-demo-8c29f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328084684523:android:eb5cc55b5444e44c6788ae",
+        "android_client_info": {
+          "package_name": "com.example.authentication_firabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328084684523-ol49gekhgb10m5kllug2dboht40mje7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2qfAwpUbUw7sg4xzu5i-BR8cMyIa6LPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328084684523-ol49gekhgb10m5kllug2dboht40mje7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
